@@ -22,9 +22,9 @@
 return array(
 	'default' => array(
 		'connection' => array(
-			'dsn'      => 'mysql:host=localhost;dbname=fuel_dev',
+			'dsn'      => 'mysql:host=mysql;dbname=album-shelf',
 			'username' => 'root',
-			'password' => 'root',
+			'password' => 'password',
 		),
 	),
 );
